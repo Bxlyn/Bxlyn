@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bxlyn
+- 👀 I’m interested in Programming and other computer stuff, I am familiar with some stuff in hacking like phishing, DDOS and password cracking but the only problem is that I dont use my own scripts.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects, and tools for hacking as my future career is to become a ethical hacker or a cyber security expert
+- 📫 How to reach me: You can email me on BilalThaloob@gmail.com but I dont usually check my emails but I do it occasionally
