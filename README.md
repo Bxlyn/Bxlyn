@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Bxlyn
-- 👀 I’m interested in Programming and other computer stuff, I like to program random things including some hacking related stuff but the only problem is that I mostly use other people's scripts, but hopefully Ill change that.
-- 🌱 I’m currently learning python, HTML, and JavaScript
-- 💞️ I’m looking forward to collaborate on projects, and tools
-- 📫 How to reach me: You can email me on BilalThaloob@gmail.com but I dont usually check my emails but I do it occasionally
+hi
